@@ -1,0 +1,47 @@
+*{
+    background-color: orange;
+} 
+
+h1{color: green;
+    font-size: 50px;
+    margin: 0 auto; 
+    text-align: center;
+
+
+
+} 
+
+.texto{
+    background-color: white; 
+    color: green; 
+    margin: auto; 
+    text-align: center; 
+    font-size: 25px;
+
+} 
+
+#arealogin{
+    margin: auto; 
+    width: 300px; 
+    border: 2px solid whitesmoke; 
+    padding: 20px; 
+    border-radius: 10px;
+    display: flex; 
+    flex-direction: column; 
+    gap: 20px;
+} 
+
+
+button{
+    color: white; 
+    margin: auto;
+    font-size: 30px;
+
+} 
+
+button:hover{
+    background-color: black; 
+    color: yellow; 
+    font-size: 35px; 
+    
+} 
